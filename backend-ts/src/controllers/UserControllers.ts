@@ -16,7 +16,7 @@ export default {
 
         emailService.sendMail({
             to: {
-                name: "Diego",
+                name: "Fabio",
                 email: "fabio@molliet.com"
             },
             message: { 
